@@ -1,0 +1,12 @@
+.webview-bulletins-board {
+  font-size: 0.9rem;
+  line-height: 1.1rem; }
+  .webview-bulletins-board.bulletin-exist {
+    padding-top: 18px;
+    padding-bottom: 25px; }
+  .webview-bulletins-board .children {
+    margin-top: 12px; }
+  .webview-bulletins-board .test {
+    font-size: 12px; }
+
+/*# sourceMappingURL=index.css.map */
