@@ -5,7 +5,7 @@ ENV HOME /root
 RUN apt-get update -qq
 
 RUN apt-get install make
-Run apt-get install -y sass
+RUN apt-get install -y sass
 # install compass
 RUN gem install --no-rdoc --no-ri compass
 
